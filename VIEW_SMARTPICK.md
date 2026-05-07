@@ -6,6 +6,13 @@ Clique no link abaixo para visualizar o site **SmartPick Pro** no navegador:
 
 ---
 
+## 📂 Arquivo Completo
+
+Acesse o arquivo diretamente no GitHub:
+👉 https://github.com/marcosgustavom2014-ship-it/EngenhariadePrompt/blame/main/smartpick-pro.html
+
+---
+
 ## ✨ Funcionalidades
 
 - ✅ Gestão de Pedidos iFood
